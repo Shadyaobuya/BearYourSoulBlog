@@ -1,0 +1,210 @@
+#aboutme{
+    margin: 0;
+    /* background-color: tomato; */
+    /* background-image: url(images/writing.jpeg); */
+    background-image: url(images/dream1.jpg);
+    /* background-image: url(images/dc3.png); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    /* opacity: 0.4; */
+    /* background-color: rgb(206, 198, 198);  */
+    
+
+
+   
+
+}
+
+
+#landing_pg{
+    background: url(images/dc.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+   color: #EF9110 ;
+}
+.name{
+    float: left;
+    font-size: 20px;
+    margin-top:15px;
+}
+nav{
+    background-color:#222121;
+    overflow: hidden;
+    opacity: .7;
+    /* position:fixed;
+    width: 100%; */
+}
+a{
+    text-decoration: none;
+    color: #EF9110 ;
+    float:right;
+    padding: 20px;
+    font-size: 20px;
+
+}
+a:hover{
+    color: #106EEF;
+}
+
+.home{
+    padding-top: 20px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    transform:scaleY(2.5);
+    font-size: 20px;
+    color: #222121;
+}
+.quote1{
+    font-family: cursive;
+    font-size: 20px;
+    color:#222121;
+    text-align: center;
+    font-weight: 4;
+    font-style: italic;
+    padding-top: 8%;
+    padding-left: 24%;
+   
+}
+.myprototype{
+    
+    float: right; 
+    width:308px;
+    height: 450px;
+}
+
+.text_container{
+    width: 50%;
+    height: 100%; 
+    background-color: #EF9110;
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 300px;
+    margin-top: 60px;
+    opacity: 0.9; 
+    /* z-index: 5; */
+    
+    
+    
+}
+.image{
+    width: 40%;
+    height: 20%;
+    padding-top: 10px;
+    position: relative;
+    /* z-index: 100; */
+}
+.mep{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 4;
+    font-style: italic;
+    padding-top: 4%;
+    position: relative;
+    /* z-index: 100;  */
+    color: rgb(0, 0, 0);
+
+}
+#quote{
+    padding-top: 9px;
+    position:relative;
+    width: 90%;
+    height:20% ;
+    /* z-index: 100; */
+    margin-bottom: 2%;
+    padding-bottom: 5%;
+}
+footer{
+    background-color: #222121;
+    color:#EF9110 ;
+    margin-top: 20px;
+    text-align: center;
+    height: 30px;
+    width: 100%;
+    padding-top: 20px;
+    position: fixed;
+    bottom: 0%;
+    opacity: .7;
+
+}
+.blogbody{
+    /* background-image:url(images/afrart2.jpg) ; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    background-color: rgb(217,213,210);
+
+}
+#speak{
+    margin-top: 4px;
+}
+#books{
+    width: 50%;
+    height: 100%; 
+    background-color: #EF9110;
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 300px;
+    margin-top: 60px;
+    opacity: 0.6; 
+
+
+}
+.imageb{
+    float:left;
+    width:20%;
+    padding: 20px;
+    vertical-align: center;
+    
+
+   
+}
+.blogpic{
+    margin-left: 40%;
+    margin-bottom: 50px;
+}
+
+.image1{
+    padding-top: 9px;
+    position:relative;
+    width: 50%;
+    height:15% ;
+    border-radius: 5%;
+    float: right;
+
+    
+}
+.image2{
+    margin-left: 30%;
+    margin-top: 2%;
+    width: 40%;
+    border-radius: 5%;
+}
+#tmom{
+    width: 40%;
+    position: relative;
+  
+}
+.blog_container2{
+    background-color: rgb(217,213,210);
+    border:5px outset #EF9110;
+    width:50%;
+    vertical-align: middle;
+    margin-left: 300px;
+    margin-bottom: 4%;
+}
+h3{
+    text-align: center;
+    /* font-weight: 4; */
+    font-family: 'Comfortaa', cursive;
+
+}
+h6{
+    text-align: center;
+    font-weight: 4;
+    font-family: 'Comfortaa', cursive;
+}
