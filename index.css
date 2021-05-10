@@ -1,19 +1,11 @@
 #aboutme{
     margin: 0;
-    /* background-color: tomato; */
-    /* background-image: url(images/writing.jpeg); */
-    background-image: url(images/dream1.jpg);
-    /* background-image: url(images/dc3.png); */
+    /* background-image: url(images/My.jpg); */
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
     /* opacity: 0.4; */
-    /* background-color: rgb(206, 198, 198);  */
-    
-
-
-   
-
+    background-color: rgb(217,213,210);
 }
 
 
@@ -30,6 +22,9 @@
     float: left;
     font-size: 20px;
     margin-top:15px;
+    color: #EF9110 ;
+    font-family: 'Comfortaa', cursive;
+
 }
 nav{
     background-color:#222121;
@@ -44,6 +39,8 @@ a{
     float:right;
     padding: 20px;
     font-size: 20px;
+    font-family: 'Comfortaa', cursive;
+
 
 }
 a:hover{
@@ -98,6 +95,7 @@ a:hover{
     position: relative;
     /* z-index: 100; */
 }
+
 .mep{
     font-size: 20px;
     text-align: center;
@@ -171,7 +169,7 @@ footer{
 .image1{
     padding-top: 9px;
     position:relative;
-    width: 50%;
+    width: 60%;
     height:15% ;
     border-radius: 5%;
     float: right;
@@ -179,14 +177,15 @@ footer{
     
 }
 .image2{
-    margin-left: 30%;
+    margin-left: 21%;
     margin-top: 2%;
-    width: 40%;
+    width: 60%;
     border-radius: 5%;
 }
 #tmom{
     width: 40%;
     position: relative;
+    border-radius: 5%;
   
 }
 .blog_container2{
@@ -207,4 +206,47 @@ h6{
     text-align: center;
     font-weight: 4;
     font-family: 'Comfortaa', cursive;
+}
+#text{
+    float:left;
+    padding-top: 50%;
+}
+#fname{
+    margin-top: 7%;
+    margin-bottom: 5%;
+}
+#email{
+    margin-bottom: 5%;
+}
+
+#lname{
+    margin-bottom: 5%;
+}
+
+.form{
+    margin-bottom: 20%;
+    width: 50%;
+    height: 100%; 
+    background-color: rgb(217,213,210);
+     border:5px ridge  #EF9110; 
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 300px;
+    margin-top: 60px;
+    opacity: 0.9; 
+}
+#btn{
+    width:20%;
+    margin-bottom: 5%;
+    height: 20px;
+}
+#btn:hover{
+    background-color:#EF9110 ;
+    color: #106EEF;
+}
+.image3{
+    margin-left: 28%;
+    margin-top: 2%;
+    width: 40%;
+    border-radius: 5%;
 }
